@@ -1,4 +1,4 @@
-### Olá! Eu sou a Angélica.
+## Olá! Eu sou a Angélica.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/legna.arret?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
@@ -7,7 +7,7 @@
 
 ![Angelica GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-angelica-terra&show_icons=true&theme=tokyonight)
 
-### Tecnologias que utilizo no meu dia-a-dia:
+## Tecnologias que utilizo no meu dia-a-dia:
 
 <div style="display:inline_block"><br/>
 <img algn="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
@@ -19,4 +19,4 @@
 <br/>
 </div>
 
-### ApaixonadA por tecnologia e sua capacidade de transformar o mundo.
+## ApaixonadA por tecnologia e sua capacidade de transformar o mundo.
